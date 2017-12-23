@@ -9,6 +9,6 @@ Plan for this month:
 * Sorting algorithms
   
   * Bubblesort :heavy_check_mark:
-  * Insertion sort
+  * Insertion sort :heavy_check_mark:
   * Merge sort
   * Quick sort
