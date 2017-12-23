@@ -1,5 +1,4 @@
 # Bubblesort in python
-import time
 
 unsortedArray = [2, 8, 9, 4, 3, 6, 12]
 print(unsortedArray)
@@ -17,4 +16,3 @@ for i in range(len(unsortedArray)-1, 1, -1):
             swap(j)
 
 print(unsortedArray)
-time.sleep(5.5)
