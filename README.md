@@ -10,5 +10,5 @@ Plan for this month:
   
   * Bubblesort :heavy_check_mark:
   * Insertion sort :heavy_check_mark:
-  * Merge sort
+  * Merge sort :heavy_check_mark:
   * Quick sort
